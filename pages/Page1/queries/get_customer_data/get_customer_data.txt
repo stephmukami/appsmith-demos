@@ -1,0 +1,1 @@
+SELECT customerid,emailaddress,firstname,middlename,lastname,phonenumber,photo FROM public."customermaster";
